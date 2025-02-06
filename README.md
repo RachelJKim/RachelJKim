@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Rachel Kim
+  # Hi👋 I'm Rachel Kim
 
 <p align="center">
     <!-- Personal Website -->
@@ -27,10 +27,10 @@
 ---
 
 ### 🎓 Education
-- **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
-  - **M.S. student**, [HCITech Lab](https://hcitech.org/) School of Computing
+- **M.S. | Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
+  - School of Computing (Mar 2025 ~ present)
   - Advised by Sang-Ho Yoon (@ [HCITech Lab](https://hcitech.org/))
   - Co-Advised by Geehyuk Lee (@ [HCIL](https://hcil.kaist.ac.kr/))
-- **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
-  - B.S, School of Computing
-  - Minor in Culture Technology
+- **B.S. | Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
+  - School of Computing (Mar 2020 ~ Feb 2025)
+  - Minor: Culture Technology
